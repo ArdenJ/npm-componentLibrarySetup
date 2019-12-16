@@ -1,0 +1,20 @@
+{
+  "name": "playerlib",
+  "version": "1.0.0",
+  "description": "Small component library around the audio component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArdenJ/reactwebplayer.git"
+  },
+  "keywords": [],
+  "author": "Arden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArdenJ/reactwebplayer/issues"
+  },
+  "homepage": "https://github.com/ArdenJ/reactwebplayer#readme"
+}
