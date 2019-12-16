@@ -1,8 +1,1 @@
-(function (factory) {
-	typeof define === 'function' && define.amd ? define(factory) :
-	factory();
-}((function () { 'use strict';
-
-	console.log('hello' + 'world' + '   ');
-
-})));
+!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(require("react")):"function"==typeof define&&define.amd?define(["react"],t):t((e=e||self).React)}(this,(function(e){"use strict";e=e&&e.hasOwnProperty("default")?e.default:e}));
