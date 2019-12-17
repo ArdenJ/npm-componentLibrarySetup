@@ -1,2 +1,2 @@
 # reactwebplayer
-Small component library around the audio component
+Light-weight audio player in built usign react and styled components
